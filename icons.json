@@ -1,0 +1,227 @@
+{
+  "iconDefinitions": {
+    "_0": {
+      "iconPath": "icons/561.gif"
+    },
+    "_1": {
+      "iconPath": "icons/1003.gif"
+    },
+    "_2": {
+      "iconPath": "icons/1323.gif"
+    },
+    "_3": {
+      "iconPath": "icons/1722.gif"
+    },
+    "_4": {
+      "iconPath": "icons/2257.gif"
+    },
+    "_5": {
+      "iconPath": "icons/2288.gif"
+    },
+    "_6": {
+      "iconPath": "icons/2519.gif"
+    },
+    "_7": {
+      "iconPath": "icons/2780.gif"
+    },
+    "_8": {
+      "iconPath": "icons/2816.gif"
+    },
+    "_9": {
+      "iconPath": "icons/2821.gif"
+    },
+    "_10": {
+      "iconPath": "icons/3955.gif"
+    },
+    "_11": {
+      "iconPath": "icons/4366.gif"
+    },
+    "_12": {
+      "iconPath": "icons/4740.gif"
+    },
+    "_13": {
+      "iconPath": "icons/4829.gif"
+    },
+    "_14": {
+      "iconPath": "icons/4903.gif"
+    },
+    "_15": {
+      "iconPath": "icons/5747.gif"
+    },
+    "_16": {
+      "iconPath": "icons/5880.gif"
+    },
+    "_17": {
+      "iconPath": "icons/8187.gif"
+    },
+    "_18": {
+      "iconPath": "icons/8347.gif"
+    },
+    "_19": {
+      "iconPath": "icons/9060.gif"
+    },
+    "_20": {
+      "iconPath": "icons/9288.gif"
+    },
+    "_21": {
+      "iconPath": "icons/9942.gif"
+    },
+    "_22": {
+      "iconPath": "icons/10355.gif"
+    },
+    "_23": {
+      "iconPath": "icons/13165.gif"
+    },
+    "_24": {
+      "iconPath": "icons/14414.gif"
+    },
+    "_25": {
+      "iconPath": "icons/15501.gif"
+    },
+    "_26": {
+      "iconPath": "icons/15590.gif"
+    },
+    "_27": {
+      "iconPath": "icons/16905.gif"
+    },
+    "_28": {
+      "iconPath": "icons/17133.gif"
+    },
+    "_29": {
+      "iconPath": "icons/17590.gif"
+    },
+    "_30": {
+      "iconPath": "icons/17921.gif"
+    },
+    "_31": {
+      "iconPath": "icons/17922.gif"
+    },
+    "_32": {
+      "iconPath": "icons/19304.gif"
+    },
+    "_33": {
+      "iconPath": "icons/20213.gif"
+    },
+    "_34": {
+      "iconPath": "icons/20495.gif"
+    },
+    "_35": {
+      "iconPath": "icons/20770.gif"
+    },
+    "_36": {
+      "iconPath": "icons/21044.gif"
+    },
+    "_37": {
+      "iconPath": "icons/22737.gif"
+    },
+    "_38": {
+      "iconPath": "icons/22878.gif"
+    },
+    "_39": {
+      "iconPath": "icons/23061.gif"
+    },
+    "_40": {
+      "iconPath": "icons/24706.gif"
+    },
+    "_41": {
+      "iconPath": "icons/26034.gif"
+    },
+    "_42": {
+      "iconPath": "icons/26528.gif"
+    },
+    "_43": {
+      "iconPath": "icons/28415.gif"
+    },
+    "_44": {
+      "iconPath": "icons/28885.gif"
+    },
+    "_45": {
+      "iconPath": "icons/29065.gif"
+    },
+    "_46": {
+      "iconPath": "icons/31315.gif"
+    },
+    "_47": {
+      "iconPath": "icons/31318.gif"
+    },
+    "_48": {
+      "iconPath": "icons/32733.gif"
+    },
+    "_49": {
+      "iconPath": "icons/35535.gif"
+    },
+    "_50": {
+      "iconPath": "icons/36787.gif"
+    },
+    "_51": {
+      "iconPath": "icons/44344.gif"
+    },
+    "_52": {
+      "iconPath": "icons/50595.gif"
+    },
+    "_53": {
+      "iconPath": "icons/54133.gif"
+    },
+    "_54": {
+      "iconPath": "icons/56063.gif"
+    },
+    "_55": {
+      "iconPath": "icons/62741.gif"
+    },
+    "_56": {
+      "iconPath": "icons/63765.gif"
+    },
+    "_57": {
+      "iconPath": "icons/67247.gif"
+    }
+  },
+  "file": "_01",
+  "fileExtensions": {
+    "enc": "_1",
+    "validators/rb": "_0",
+    "scss": "_2",
+    "application_cable/rb": "_3",
+    "channels/rb": "_4",
+    "workflows/yml": "_5",
+    "utils/js": "_6",
+    "factories/rb": "_7",
+    "tasks/rake": "_8",
+    "requests/rb": "_9",
+    "admin/rb": "_10",
+    "rb": "_11",
+    "py": "_12",
+    "erb": "_13",
+    "jbuilder": "_14",
+    "yml": "_15",
+    "rake": "_16",
+    "controllers/rb": "_17",
+    "api/rb": "_18",
+    "dashboards/rb": "_19",
+    "helpers/rb": "_20",
+    "jobs/rb": "_21",
+    "mailers/rb": "_22",
+    "models/rb": "_23",
+    "services/rb": "_24",
+    "view_models/rb": "_25",
+    "policies/rb": "_26",
+    "initializers/rb": "_27",
+    "locales/yml": "_28",
+    "db/rb": "_29",
+    "migrate/rb": "_30",
+    "js": "_31",
+    "jsx": "_32",
+    "jpeg": "_33",
+    "jpg": "_36",
+    "gif": "_37",
+    "png": "_38",
+    "ico": "_39"
+  },
+  "fileNames": {
+    "database.yml": "_40",
+    "secrets.yml": "_41"
+  },
+  "languageIds": {
+    "database.yml": "_40",
+    "secrets.yml": "_41"
+  }
+}
