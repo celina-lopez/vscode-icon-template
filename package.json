@@ -1,0 +1,19 @@
+{
+  "name": "fill-name-here",
+  "displayName": "Fill here",
+  "description": "Fill here",
+  "version": "0.0.9",
+  "publisher": "your-name-on-vscode",
+  "engines": {
+      "vscode": "^1.20.0"
+  },
+  "contributes": {
+      "iconThemes": [
+          {
+              "id": "fill-name-here",
+              "label": "Fill here Icon Theme",
+              "path": "./icons.json"
+          }
+      ]
+  }
+}
